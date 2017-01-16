@@ -1,5 +1,3 @@
-import { Observable } from 'rxjs/Observable';
-
 export class BeaconModel {
 
   uuid: string;
